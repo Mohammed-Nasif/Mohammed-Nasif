@@ -20,7 +20,6 @@ Hi, i'm Mohammed Nasif!
 <h2> <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80">Find Me On:</h2>
 
 <div align="center">
-
 <a href="mailto:m.khaled100@ymail.com?subject=[GitHub]%20🔥%20profile%20contact&body=Hello"><img align="left" alt="Nasif's Email" width="40px" src="https://github.com/Mohammed-Nasif/Mohammed-Nasif/blob/main/images/email.png?raw=true" draggable="false" /></a>
 
 <a href="https://www.linkedin.com/in/mohammednasif/"><img align="left" alt="Nasif's LinkdeIN" width="40px" src="https://github.com/Mohammed-Nasif/Mohammed-Nasif/blob/main/images/linkedin.png?raw=true" draggable="false" /></a>
@@ -38,15 +37,14 @@ Hi, i'm Mohammed Nasif!
 <a href="https://stackoverflow.com/users/18315357/mohammed-nasif"><img align="left" alt="Nasif's Stackoverflow" width="40px" src="https://github.com/Mohammed-Nasif/Mohammed-Nasif/blob/main/images/stack-overflow.png?raw=true" draggable="false" /></a>
 
 <a href="https://codepen.io/mohammed-nasif"><img align="left" alt="Nasif's CodePen" width="40px" src="https://github.com/Mohammed-Nasif/Mohammed-Nasif/blob/main/images/codepen.png?raw=true" draggable="false" /></a>
-<br/>
 
 <a href="https://leetcode.com/Mohammed-Nasif/"><img align="left" alt="Nasif's LeetCode" width="150px" src="https://github.com/Mohammed-Nasif/Mohammed-Nasif/blob/main/images/LeetCode.png?raw=true" draggable="false" /></a>
 
 <a href="https://www.hackerrank.com/m_khaled100"><img align="left" alt="Nasif's HackerRank" width="170px" src="https://github.com/Mohammed-Nasif/Mohammed-Nasif/blob/main/images/HackerRank.png?raw=true" draggable="false" /></a>
 </div>
 
-<br/>
-<br/>
+<br />
+<br />
 
 # <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" draggable="false" > About me
 
