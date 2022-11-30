@@ -50,7 +50,7 @@ Hi, i'm Mohammed Nasif!
 <br />
 <br />
 
-<h2> <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">About me</h2>
+<h2> <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40">About me</h2>
 
 - 💻 Junior Front-End Developer.
 - <a href="https://www.youtube.com/@mohammed-nasif" target="_blank"><img src="https://github.com/Mohammed-Nasif/Mohammed-Nasif/blob/main/images/youtube.png?raw=true" width="15" draggable="false"> </a> Problem Solving Youtuber @ <a href="https://www.youtube.com/@mohammed-nasif" target="_blank">Mohammed Nasif</a>
