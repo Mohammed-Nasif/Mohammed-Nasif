@@ -60,7 +60,12 @@ Hi, i'm Mohammed Nasif!
 - 📖 Currently Reading: "**Grokking Algorithms**" by [@Aditya Bhargava](https://www.amazon.com/Aditya-Bhargava/e/B01IDUQZGQ/ref=aufs_dp_fta_dsk)
 - 🏃‍♂️ I am passionate about Front-End, Web Performance, Competitive Programming.
 - 🚧 I'm currently focused on improving my ability to provide high quality web applications using React.js.
-- 💬 If you have any question, please do not hesitate to reach out to me, I will be happy to help!
+- ⁉️ If you have any question, please do not hesitate to reach out to me, I will be happy to help!
+- 💬 Favourite Quote: 
+
+  > “Instead of wondering when your next vacation is, maybe you should set up a life you don't need to escape from” - Seth Godin
+
+
 
 <h2><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30"> My Skills</f2>
 
