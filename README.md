@@ -38,15 +38,15 @@ Hi, i'm Mohammed Nasif!
 <a href="https://stackoverflow.com/users/18315357/mohammed-nasif"><img align="left" alt="Nasif's Stackoverflow" width="40px" src="https://github.com/Mohammed-Nasif/Mohammed-Nasif/blob/main/images/stack-overflow.png?raw=true" draggable="false" /></a>
 
 <a href="https://codepen.io/mohammed-nasif"><img align="left" alt="Nasif's CodePen" width="40px" src="https://github.com/Mohammed-Nasif/Mohammed-Nasif/blob/main/images/codepen.png?raw=true" draggable="false" /></a>
-</br>
+<br/>
 
 <a href="https://leetcode.com/Mohammed-Nasif/"><img align="left" alt="Nasif's LeetCode" width="150px" src="https://github.com/Mohammed-Nasif/Mohammed-Nasif/blob/main/images/LeetCode.png?raw=true" draggable="false" /></a>
 
 <a href="https://www.hackerrank.com/m_khaled100"><img align="left" alt="Nasif's HackerRank" width="170px" src="https://github.com/Mohammed-Nasif/Mohammed-Nasif/blob/main/images/HackerRank.png?raw=true" draggable="false" /></a>
 </div>
 
-</br>
-</br>
+<br/>
+<br/>
 
 # <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" draggable="false" > About me
 
@@ -130,8 +130,8 @@ Hi, i'm Mohammed Nasif!
    <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="70">
    <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="70">
 </p>
-<br>
+<br/>
 <h6 align="left" >
-   <span style="color:red">❤</span> Started From The Basement. 
+   <span style="color:black">❤</span> Started From The Basement. 
    <br>
 </h6>
