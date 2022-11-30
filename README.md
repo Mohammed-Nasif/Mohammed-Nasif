@@ -17,7 +17,7 @@ Hi, i'm Mohammed Nasif!
 <br />
 <br />
 
-<h2> <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80">Find Me On:</h2>
+<h2> <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80">Reach out to me</h2>
 
 <div align="center">
 <a href="mailto:m.khaled100@ymail.com?subject=[GitHub]%20🔥%20profile%20contact&body=Hello"><img align="left" alt="Nasif's Email" width="40px" src="https://github.com/Mohammed-Nasif/Mohammed-Nasif/blob/main/images/email.png?raw=true" draggable="false" /></a>
@@ -48,7 +48,8 @@ Hi, i'm Mohammed Nasif!
 <br />
 <br />
 
-# <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" draggable="false" > About me
+<!-- # <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" draggable="false" >  -->
+# <h2> <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">About me</h2>
 
 - 💻 Junior Front-End Developer.
 - <a href="https://www.youtube.com/@mohammed-nasif" target="_blank"><img src="https://github.com/Mohammed-Nasif/Mohammed-Nasif/blob/main/images/youtube.png?raw=true" width="15" draggable="false"> </a> Problem Solving Youtuber @ <a href="https://www.youtube.com/@mohammed-nasif" target="_blank">Mohammed Nasif</a>
