@@ -15,7 +15,6 @@ Hi, i'm Mohammed Nasif!
 </p>
 
 <br />
-<br />
 
 <h2> <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80">Reach out to me</h2>
 
@@ -111,6 +110,8 @@ Hi, i'm Mohammed Nasif!
 <code><img src="https://skillicons.dev/icons?i=wordpress" width="45px"/></code>
 </div>
 
+<br />
+<br />
 
 <h2> <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width ="35"> Github Stats </h2>
 
@@ -119,8 +120,7 @@ Hi, i'm Mohammed Nasif!
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Mohammed-Nasif&theme=monokai)](https://github.com/Mohammed-Nasif/github-profile-trophy) -->
 <!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mohammed-Nasif&theme=monokai&utcOffset=8) -->
 
-# <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> My latest Project!
-
+<h2> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">  My latest Project! </h2>
 <p align="center">
 <a href="https://github.com/Mohammed-Nasif/EduMates-ITI-Graduation-Project">
 <img width='49%' height="200px" align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=Mohammed-Nasif&repo=EduMates-ITI-Graduation-Project&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
