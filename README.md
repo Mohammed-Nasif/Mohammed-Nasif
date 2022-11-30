@@ -39,6 +39,9 @@ Hi, i'm Mohammed Nasif!
 <a href="https://codepen.io/mohammed-nasif"><img align="left" alt="Nasif's CodePen" width="40px" src="https://github.com/Mohammed-Nasif/Mohammed-Nasif/blob/main/images/codepen.png?raw=true" draggable="false" /></a>
 </div>
 
+<br />
+<br />
+
 <div align="center">
 <a href="https://leetcode.com/Mohammed-Nasif/"><img align="left" alt="Nasif's LeetCode" width="150px" src="https://github.com/Mohammed-Nasif/Mohammed-Nasif/blob/main/images/LeetCode.png?raw=true" draggable="false" /></a>
 
@@ -48,8 +51,7 @@ Hi, i'm Mohammed Nasif!
 <br />
 <br />
 
-<!-- # <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" draggable="false" >  -->
-# <h2> <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">About me</h2>
+<h2> <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">About me</h2>
 
 - 💻 Junior Front-End Developer.
 - <a href="https://www.youtube.com/@mohammed-nasif" target="_blank"><img src="https://github.com/Mohammed-Nasif/Mohammed-Nasif/blob/main/images/youtube.png?raw=true" width="15" draggable="false"> </a> Problem Solving Youtuber @ <a href="https://www.youtube.com/@mohammed-nasif" target="_blank">Mohammed Nasif</a>
@@ -109,7 +111,7 @@ Hi, i'm Mohammed Nasif!
 <code><img src="https://skillicons.dev/icons?i=wordpress" width="45px"/></code>
 </div>
 
-<hr>
+
 <h2> <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width ="35"> Github Stats </h2>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mohammed-Nasif&theme=monokai)![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mohammed-Nasif&theme=monokai)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mohammed-Nasif&theme=monokai)![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mohammed-Nasif&theme=monokai)[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Mohammed-Nasif&theme=react&hide_border=true)](https://git.io/streak-stats)
