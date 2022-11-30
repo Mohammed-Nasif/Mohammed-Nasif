@@ -37,7 +37,9 @@ Hi, i'm Mohammed Nasif!
 <a href="https://stackoverflow.com/users/18315357/mohammed-nasif"><img align="left" alt="Nasif's Stackoverflow" width="40px" src="https://github.com/Mohammed-Nasif/Mohammed-Nasif/blob/main/images/stack-overflow.png?raw=true" draggable="false" /></a>
 
 <a href="https://codepen.io/mohammed-nasif"><img align="left" alt="Nasif's CodePen" width="40px" src="https://github.com/Mohammed-Nasif/Mohammed-Nasif/blob/main/images/codepen.png?raw=true" draggable="false" /></a>
+</div>
 
+<div align="center">
 <a href="https://leetcode.com/Mohammed-Nasif/"><img align="left" alt="Nasif's LeetCode" width="150px" src="https://github.com/Mohammed-Nasif/Mohammed-Nasif/blob/main/images/LeetCode.png?raw=true" draggable="false" /></a>
 
 <a href="https://www.hackerrank.com/m_khaled100"><img align="left" alt="Nasif's HackerRank" width="170px" src="https://github.com/Mohammed-Nasif/Mohammed-Nasif/blob/main/images/HackerRank.png?raw=true" draggable="false" /></a>
@@ -71,12 +73,12 @@ Hi, i'm Mohammed Nasif!
 <code><img src="https://skillicons.dev/icons?i=jquery" width="45px"/></code>
 <code><img src="https://skillicons.dev/icons?i=html" width="45px"/></code>
 <code><img src="https://skillicons.dev/icons?i=css" width="45px"/></code>
-<code><img src="https://skillicons.dev/icons?i=sass	" width="45px"/></code>
+<code><img src="https://skillicons.dev/icons?i=sass" width="45px"/></code>
 <code><img src="https://skillicons.dev/icons?i=bootstrap" width="45px"/></code>
 <code><img src="https://skillicons.dev/icons?i=materialui" width="45px"/></code>
 <code><img src="https://skillicons.dev/icons?i=tailwind" width="45px"/></code>
 <code><img src="https://skillicons.dev/icons?i=cpp" width="45px"/></code>
-<code><img src="https://skillicons.dev/icons?i=firebase	" width="45px"/></code>
+<code><img src="https://skillicons.dev/icons?i=firebase" width="45px"/></code>
 </div>
 <br />
 
