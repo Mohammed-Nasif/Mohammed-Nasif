@@ -45,12 +45,11 @@ Hi, i'm Mohammed Nasif!
 <a href="https://leetcode.com/Mohammed-Nasif/"><img align="left" alt="Nasif's LeetCode" width="150px" src="https://github.com/Mohammed-Nasif/Mohammed-Nasif/blob/main/images/LeetCode.png?raw=true" draggable="false" /></a>
 
 <a href="https://www.hackerrank.com/m_khaled100"><img align="left" alt="Nasif's HackerRank" width="170px" src="https://github.com/Mohammed-Nasif/Mohammed-Nasif/blob/main/images/HackerRank.png?raw=true" draggable="false" /></a>
+<br />
+<br />
 </div>
 
-<br />
-<br />
-
-<h2> <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40">About me</h2>
+<h2> <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"> About me</h2>
 
 - 💻 Junior Front-End Developer.
 - <a href="https://www.youtube.com/@mohammed-nasif" target="_blank"><img src="https://github.com/Mohammed-Nasif/Mohammed-Nasif/blob/main/images/youtube.png?raw=true" width="15" draggable="false"> </a> Problem Solving Youtuber @ <a href="https://www.youtube.com/@mohammed-nasif" target="_blank">Mohammed Nasif</a>
