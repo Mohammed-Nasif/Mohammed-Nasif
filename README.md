@@ -23,7 +23,7 @@ Hi, i'm Mohammed Nasif!
 
 <a href="https://www.linkedin.com/in/mohammednasif/"><img align="left" alt="Nasif's LinkdeIN" width="40px" src="https://github.com/Mohammed-Nasif/Mohammed-Nasif/blob/main/images/linkedin.png?raw=true" draggable="false" /></a>
 
-<a href="https://twitter.com/jr_nasif"><img align="left" alt="Nasif's Twitter" width="40px" src="https://github.com/Mohammed-Nasif/Mohammed-Nasif/blob/main/images/twitter.png?raw=true" draggable="false" /></a>
+<!-- <a href=""><img align="left" alt="Nasif's Twitter" width="40px" src="https://github.com/Mohammed-Nasif/Mohammed-Nasif/blob/main/images/twitter.png?raw=true" draggable="false" /></a> -->
 
 <a href="https://www.youtube.com/@mohammed-nasif"><img align="left" alt="Nasif's Youtube" width="40px" src="https://github.com/Mohammed-Nasif/Mohammed-Nasif/blob/main/images/youtube.png?raw=true" draggable="false" /></a>
 
