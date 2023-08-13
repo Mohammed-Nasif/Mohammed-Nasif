@@ -1,13 +1,13 @@
 <img src="https://github.com/Mohammed-Nasif/Mohammed-Nasif/blob/main/images/MohammedNasif.png?raw=true" width="100%" />
 
 <h1 align="center">
-Hi, i'm Mohammed Nasif!
+Hi, I'm Mohammed Nasif!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 </h1>
 
 <br/>
 <p align="center">
- <a href="https://github.com/Mohammed-Nasif"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1500&center=true&vCenter=true&width=435&lines=Software+Developer+%7C+Front-End" alt="Typing SVG" /></a>
+ <a href="https://github.com/Mohammed-Nasif"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1500&center=true&vCenter=true&width=445&lines=Software+Developer+%7C+Full-Stack" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
@@ -55,15 +55,15 @@ Hi, i'm Mohammed Nasif!
 
 <h2 align="left" width="100%"> <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40px"> About me</h2>
 
-- 💻 Junior Front-End Developer.
+- 💻 Software Developer | Full-Stack @ _VOIS (Vodafone Group).
 - <a href="https://www.youtube.com/@mohammed-nasif" target="_blank"><img src="https://github.com/Mohammed-Nasif/Mohammed-Nasif/blob/main/images/youtube.png?raw=true" width="15" draggable="false"> </a> Problem Solving Youtuber @ <a href="https://www.youtube.com/@mohammed-nasif" target="_blank">Mohammed Nasif</a>
   </a>
 - <img src="https://github.com/Mohammed-Nasif/Mohammed-Nasif/blob/main/images/iti-logo.png?raw=true" width="15" draggable="false"> ITI Graduate from <a href="https://iti.gov.eg/iti/home">Front‑End Development Track</a>
 - 🎓 Graduated from <a href="https://eng.alexu.edu.eg/index.php/en/">Faculty of Engineering Alexandria University</a>
 - 📖 Currently Reading: "**Grokking Algorithms**" by [@Aditya Bhargava](https://www.amazon.com/Aditya-Bhargava/e/B01IDUQZGQ/ref=aufs_dp_fta_dsk)
-- 🏃‍♂️ I am passionate about Front-End, Web Performance, Competitive Programming.
-- 🚧 I'm currently focused on improving my ability to provide high quality web applications using React.js.
-- ⁉️ If you have any question, please do not hesitate to reach out to me, I will be happy to help!
+- 🏃‍♂️ I am passionate about Front-End, Web Performance, and Competitive Programming.
+- 🚧 I'm currently focused on improving my ability to provide high-quality web applications using NextJS.
+- ⁉️ If you have any questions, please do not hesitate to reach out to me, I will be happy to help!
 - 💬 Favourite Quote: 
 
   > “Instead of wondering when your next vacation is, maybe you should set up a life you don't need to escape from” - Seth Godin
@@ -77,7 +77,10 @@ Hi, i'm Mohammed Nasif!
 <div align="center">
 <code><img src="https://skillicons.dev/icons?i=javascript" width="45px"/></code>
 <code><img src="https://skillicons.dev/icons?i=typescript" width="45px"/></code>
+<code><img src="https://skillicons.dev/icons?i=next" width="45px"/></code>
 <code><img src="https://skillicons.dev/icons?i=react" width="45px"/></code>
+<code><img src="https://skillicons.dev/icons?i=nest" width="45px"/></code>
+<code><img src="https://skillicons.dev/icons?i=jest" width="45px"/></code>
 <code><img src="https://skillicons.dev/icons?i=redux" width="45px"/></code>
 <code><img src="https://skillicons.dev/icons?i=angular" width="45px"/></code>
 <code><img src="https://skillicons.dev/icons?i=jquery" width="45px"/></code>
