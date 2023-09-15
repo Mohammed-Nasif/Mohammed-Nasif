@@ -6,10 +6,17 @@ Hi, I'm Mohammed Nasif!
 </h1>
 
 <br/>
+<!--
 <p align="center">
  <a href="https://github.com/Mohammed-Nasif"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1500&center=true&vCenter=true&width=445&lines=Software+Developer+%7C+Full-Stack" alt="Typing SVG" /></a>
 </p>
+-->
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&pause=1500&color=F72A99&center=true&vCenter=true&width=435&lines=Software+Developer;JS+FullStack+Developer)](https://github.com/mohammed-nasif/)
 
+</div>
+  
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=Mohammed-Nasif&style=for-the-badge" alt="MohammedNaif" />
 </p>
